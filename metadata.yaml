@@ -1,11 +1,16 @@
 _repo: Travels-Through-North-and-South-Carolina-Georgia-East-and-West-Florida-The-Cherokee-Country-T__63678
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63678-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartram, William
     gutenberg_agent_id: '52554'
     url: http://www.gutenberg.org/2009/agents/52554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63678#Travels-Through-North-and-South-Carolina-Georgia-East-and-West-Florida-The-Cherokee-Country-T_
 gutenberg_issued: '2020-11-08'
 gutenberg_type: Text
 identifiers:
